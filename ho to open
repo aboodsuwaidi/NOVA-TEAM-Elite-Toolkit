@@ -1,0 +1,5 @@
+ho to open the tols
+sudo su 
+pass (kali)
+chmod +x nova_team_elite_v9999.sh
+sudo ./nova_team_elite_v9999.sh
